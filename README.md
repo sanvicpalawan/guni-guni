@@ -43,7 +43,7 @@ Prices, availability, Glass/Bottle choice and quantities are validated server-si
 ## Backoffice (`/#/admin`)
 
 **Hidden entrance:** click/tap the round logo **three times** anywhere on the site to open the
-admin sign-in. Default admin passkey **5309** (demo mode and the Node server's default; override
+admin sign-in. Default admin passkey ************* (demo mode and the Node server's default; override
 with `ADMIN_PIN`). Staff dashboard PIN stays `1234` by default (`STAFF_PIN`).
 
 Footer (Admin → Header & footer): brand, tagline, handwritten note, links, copyright, and the
